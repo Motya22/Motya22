@@ -1,5 +1,9 @@
 ## Hi there 👋
-## RSSchool Projects:
+### RSSchool Projects:
+- 📸 Adaptive [Portfolio](https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/portfolio/) layout with added functionality
+- 🎥 Custom [video player](https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/portfolio/#video)
+- 🎮 [Whack-a-Mole](https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/whackamole-game/) game
+
 <!--
 **Motya22/Motya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### RSSchool Projects:
-- 📸 Adaptive <a href="https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/portfolio/" target="_blank">Portfolio</a> layout with added functionality
+- 📸 Adaptive <a href="https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a> layout with added functionality
 - 🐶 Adaptive <a href="https://rolling-scopes-school.github.io/motya22-JSFE2022Q1/shelter/pages/main/" target="_blank">Shelter</a> layout with added functionality
 - 🎥 Custom <a href="https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/portfolio/#video" target="_blank">Video player</a>
 - 🎮 <a href="https://rolling-scopes-school.github.io/motya22-JSFEPRESCHOOL/whackamole-game/" target="_blank">Whack-a-Mole</a> game
